@@ -1,3 +1,2 @@
-# hello-world
-A short description.
-bla bla bla about myself
+# fake-json
+For testing purposes only.
