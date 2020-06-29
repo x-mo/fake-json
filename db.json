@@ -1,478 +1,198 @@
-[
-  {
-    "brand": "Seat",
-    "models": [
-      "Alhambra",
-      "Altea",
-      "Altea XL",
-      "Arosa",
-      "Cordoba",
-      "Cordoba Vario",
-      "Exeo",
-      "Ibiza",
-      "Ibiza ST",
-      "Exeo ST",
-      "Leon",
-      "Leon ST",
-      "Inca",
-      "Mii",
-      "Toledo"
+{
+    "success": 1,
+    "error": [],
+    "data": [
+        {
+            "category_id": "232",
+            "parent_id": "0",
+            "name": "Bathroom",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/bedroom-500x500.jpg",
+            "category_count": "1",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/bedroom.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "228",
+            "parent_id": "0",
+            "name": "Bedroom",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/bedsroom-500x500.jpg",
+            "category_count": "6",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/bedsroom.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "166",
+            "parent_id": "0",
+            "name": "Beds",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/beds%202-500x500.jpg",
+            "category_count": "6",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/beds 2.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "224",
+            "parent_id": "0",
+            "name": "Bookcases ",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/books-500x500.jpg",
+            "category_count": "1",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/books.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "225",
+            "parent_id": "0",
+            "name": "Café furniture",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/cafe%20furniture-500x500.jpg",
+            "category_count": "5",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/cafe furniture.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "205",
+            "parent_id": "0",
+            "name": "Chairs",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/chairs2-500x500.jpg",
+            "category_count": "11",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/chairs2.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "230",
+            "parent_id": "0",
+            "name": "Children's room",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/childernroom-500x500.jpg",
+            "category_count": "1",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/childernroom.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "238",
+            "parent_id": "0",
+            "name": "Designers",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/no_image-500x500.png",
+            "category_count": "0",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/no_image.png",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "231",
+            "parent_id": "0",
+            "name": "Dining",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/dining-500x500.jpg",
+            "category_count": "2",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/dining.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "234",
+            "parent_id": "0",
+            "name": "Garden and Balcony",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/garden-500x500.jpg",
+            "category_count": "3",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/garden.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "233",
+            "parent_id": "0",
+            "name": "Kitchen",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/kitchen-500x500.jpg",
+            "category_count": "1",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/kitchen.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "229",
+            "parent_id": "0",
+            "name": "Living room",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/living-500x500.jpg",
+            "category_count": "6",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/living.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "235",
+            "parent_id": "0",
+            "name": "Offers",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/offers-500x500.png",
+            "category_count": "8",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/offers.png",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "223",
+            "parent_id": "0",
+            "name": "Sofas and Armchairs",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/sofas%202-500x500.jpg",
+            "category_count": "11",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/sofas 2.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "227",
+            "parent_id": "0",
+            "name": "Tables and desks",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/tables-500x500.jpg",
+            "category_count": "2",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/tables.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        },
+        {
+            "category_id": "226",
+            "parent_id": "0",
+            "name": "Wardrobes",
+            "image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/cache/catalog/categories/Wardrobes-500x500.jpg",
+            "category_count": "1",
+            "original_image": "http://64.227.40.106/bsbasdfgvxbsbfurniture/image/catalog/categories/Wardrobes.jpg",
+            "filters": {
+                "filter_groups": []
+            },
+            "categories": []
+        }
     ]
-  },
-  {
-    "brand": "Renault",
-    "models": [
-      "Captur",
-      "Clio",
-      "Clio Grandtour",
-      "Espace",
-      "Express",
-      "Fluence",
-      "Grand Espace",
-      "Grand Modus",
-      "Grand Scenic",
-      "Kadjar",
-      "Kangoo",
-      "Kangoo Express",
-      "Koleos",
-      "Laguna",
-      "Laguna Grandtour",
-      "Latitude",
-      "Mascott",
-      "Mégane",
-      "Mégane CC",
-      "Mégane Combi",
-      "Mégane Grandtour",
-      "Mégane Coupé",
-      "Mégane Scénic",
-      "Scénic",
-      "Talisman",
-      "Talisman Grandtour",
-      "Thalia",
-      "Twingo",
-      "Wind",
-      "Zoé"
-    ]
-  },
-  {
-    "brand": "Peugeot",
-    "models": [
-      "1007",
-      "107",
-      "106",
-      "108",
-      "2008",
-      "205",
-      "205 Cabrio",
-      "206",
-      "206 CC",
-      "206 SW",
-      "207",
-      "207 CC",
-      "207 SW",
-      "306",
-      "307",
-      "307 CC",
-      "307 SW",
-      "308",
-      "308 CC",
-      "308 SW",
-      "309",
-      "4007",
-      "4008",
-      "405",
-      "406",
-      "407",
-      "407 SW",
-      "5008",
-      "508",
-      "508 SW",
-      "605",
-      "806",
-      "607",
-      "807",
-      "Bipper",
-      "RCZ"
-    ]
-  },
-  {
-    "brand": "Dacia",
-    "models": [
-      "Dokker",
-      "Duster",
-      "Lodgy",
-      "Logan",
-      "Logan MCV",
-      "Logan Van",
-      "Sandero",
-      "Solenza"
-    ]
-  },
-  {
-    "brand": "Citroën",
-    "models": [
-      "Berlingo",
-      "C-Crosser",
-      "C-Elissée",
-      "C-Zero",
-      "C1",
-      "C2",
-      "C3",
-      "C3 Picasso",
-      "C4",
-      "C4 Aircross",
-      "C4 Cactus",
-      "C4 Coupé",
-      "C4 Grand Picasso",
-      "C4 Sedan",
-      "C5",
-      "C5 Break",
-      "C5 Tourer",
-      "C6",
-      "C8",
-      "DS3",
-      "DS4",
-      "DS5",
-      "Evasion",
-      "Jumper",
-      "Jumpy",
-      "Saxo",
-      "Nemo",
-      "Xantia",
-      "Xsara"
-    ]
-  },
-  {
-    "brand": "Opel",
-    "models": [
-      "Agila",
-      "Ampera",
-      "Antara",
-      "Astra",
-      "Astra cabrio",
-      "Astra caravan",
-      "Astra coupé",
-      "Calibra",
-      "Campo",
-      "Cascada",
-      "Corsa",
-      "Frontera",
-      "Insignia",
-      "Insignia kombi",
-      "Kadett",
-      "Meriva",
-      "Mokka",
-      "Movano",
-      "Omega",
-      "Signum",
-      "Vectra",
-      "Vectra Caravan",
-      "Vivaro",
-      "Vivaro Kombi",
-      "Zafira"
-    ]
-  },
-  {
-    "brand": "Alfa Romeo",
-    "models": [
-      "145",
-      "146",
-      "147",
-      "155",
-      "156",
-      "156 Sportwagon",
-      "159",
-      "159 Sportwagon",
-      "164",
-      "166",
-      "4C",
-      "Brera",
-      "GTV",
-      "MiTo",
-      "Crosswagon",
-      "Spider",
-      "GT",
-      "Giulietta",
-      "Giulia"
-    ]
-  },
-  {
-    "brand": "Škoda",
-    "models": [
-      "Favorit",
-      "Felicia",
-      "Citigo",
-      "Fabia",
-      "Fabia Combi",
-      "Fabia Sedan",
-      "Felicia Combi",
-      "Octavia",
-      "Octavia Combi",
-      "Roomster",
-      "Yeti",
-      "Rapid",
-      "Rapid Spaceback",
-      "Superb",
-      "Superb Combi"
-    ]
-  },
-  {
-    "brand": "Chevrolet",
-    "models": [
-      "Alero",
-      "Aveo",
-      "Camaro",
-      "Captiva",
-      "Corvette",
-      "Cruze",
-      "Cruze SW",
-      "Epica",
-      "Equinox",
-      "Evanda",
-      "HHR",
-      "Kalos",
-      "Lacetti",
-      "Lacetti SW",
-      "Lumina",
-      "Malibu",
-      "Matiz",
-      "Monte Carlo",
-      "Nubira",
-      "Orlando",
-      "Spark",
-      "Suburban",
-      "Tacuma",
-      "Tahoe",
-      "Trax"
-    ]
-  },
-  {
-    "brand": "Porsche",
-    "models": [
-      "911 Carrera",
-      "911 Carrera Cabrio",
-      "911 Targa",
-      "911 Turbo",
-      "924",
-      "944",
-      "997",
-      "Boxster",
-      "Cayenne",
-      "Cayman",
-      "Macan",
-      "Panamera"
-    ]
-  },
-  {
-    "brand": "Honda",
-    "models": [
-      "Accord",
-      "Accord Coupé",
-      "Accord Tourer",
-      "City",
-      "Civic",
-      "Civic Aerodeck",
-      "Civic Coupé",
-      "Civic Tourer",
-      "Civic Type R",
-      "CR-V",
-      "CR-X",
-      "CR-Z",
-      "FR-V",
-      "HR-V",
-      "Insight",
-      "Integra",
-      "Jazz",
-      "Legend",
-      "Prelude"
-    ]
-  },
-  {
-    "brand": "Subaru",
-    "models": [
-      "BRZ",
-      "Forester",
-      "Impreza",
-      "Impreza Wagon",
-      "Justy",
-      "Legacy",
-      "Legacy Wagon",
-      "Legacy Outback",
-      "Levorg",
-      "Outback",
-      "SVX",
-      "Tribeca",
-      "Tribeca B9",
-      "XV"
-    ]
-  },
-  {
-    "brand": "Mazda",
-    "models": [
-      "121",
-      "2",
-      "3",
-      "323",
-      "323 Combi",
-      "323 Coupé",
-      "323 F",
-      "5",
-      "6",
-      "6 Combi",
-      "626",
-      "626 Combi",
-      "B-Fighter",
-      "B2500",
-      "BT",
-      "CX-3",
-      "CX-5",
-      "CX-7",
-      "CX-9",
-      "Demio",
-      "MPV",
-      "MX-3",
-      "MX-5",
-      "MX-6",
-      "Premacy",
-      "RX-7",
-      "RX-8",
-      "Xedox 6"
-    ]
-  },
-  {
-    "brand": "Mitsubishi",
-    "models": [
-      "3000 GT",
-      "ASX",
-      "Carisma",
-      "Colt",
-      "Colt CC",
-      "Eclipse",
-      "Fuso canter",
-      "Galant",
-      "Galant Combi",
-      "Grandis",
-      "L200",
-      "L200 Pick up",
-      "L200 Pick up Allrad",
-      "L300",
-      "Lancer",
-      "Lancer Combi",
-      "Lancer Evo",
-      "Lancer Sportback",
-      "Outlander",
-      "Pajero",
-      "Pajeto Pinin",
-      "Pajero Pinin Wagon",
-      "Pajero Sport",
-      "Pajero Wagon",
-      "Space Star"
-    ]
-  },
-  {
-    "brand": "Lexus",
-    "models": [
-      "CT",
-      "GS",
-      "GS 300",
-      "GX",
-      "IS",
-      "IS 200",
-      "IS 250 C",
-      "IS-F",
-      "LS",
-      "LX",
-      "NX",
-      "RC F",
-      "RX",
-      "RX 300",
-      "RX 400h",
-      "RX 450h",
-      "SC 430"
-    ]
-  },
-  {
-    "brand": "Toyota",
-    "models": [
-      "4-Runner",
-      "Auris",
-      "Avensis",
-      "Avensis Combi",
-      "Avensis Van Verso",
-      "Aygo",
-      "Camry",
-      "Carina",
-      "Celica",
-      "Corolla",
-      "Corolla Combi",
-      "Corolla sedan",
-      "Corolla Verso",
-      "FJ Cruiser",
-      "GT86",
-      "Hiace",
-      "Hiace Van",
-      "Highlander",
-      "Hilux",
-      "Land Cruiser",
-      "MR2",
-      "Paseo",
-      "Picnic",
-      "Prius",
-      "RAV4",
-      "Sequoia",
-      "Starlet",
-      "Supra",
-      "Tundra",
-      "Urban Cruiser",
-      "Verso",
-      "Yaris",
-      "Yaris Verso"
-    ]
-  },
-  {
-    "brand": "BMW",
-    "models": [
-      "i3",
-      "i8",
-      "M3",
-      "M4",
-      "M5",
-      "M6",
-      "Rad 1",
-      "Rad 1 Cabrio",
-      "Rad 1 Coupé",
-      "Rad 2",
-      "Rad 2 Active Tourer",
-      "Rad 2 Coupé",
-      "Rad 2 Gran Tourer",
-      "Rad 3",
-      "Rad 3 Cabrio",
-      "Rad 3 Compact",
-      "Rad 3 Coupé",
-      "Rad 3 GT",
-      "Rad 3 Touring",
-      "Rad 4",
-      "Rad 4 Cabrio",
-      "Rad 4 Gran Coupé",
-      "Rad 5",
-      "Rad 5 GT",
-      "Rad 5 Touring",
-      "Rad 6",
-      "Rad 6 Cabrio",
-      "Rad 6 Coupé",
-      "Rad 6 Gran Coupé",
-      "Rad 7",
-      "Rad 8 Coupé",
-      "X1",
-      "X3",
-      "X4",
-      "X5",
-      "X6",
-      "Z3",
-      "Z3 Coupé",
-      "Z3 Roadster",
-      "Z4",
-      "Z4 Roadster"
-    ]
-  }
-]
+}
